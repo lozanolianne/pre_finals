@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494388921224",
+    "project_id": "pre-finals-elective",
+    "storage_bucket": "pre-finals-elective.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494388921224:android:8658ae72afb7a72cb8303d",
+        "android_client_info": {
+          "package_name": "com.example.pre_finals_elective"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQbT4chuPB_NYjqYKkNG7OueHenNFQ5xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
